@@ -5,6 +5,10 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 
 <!-- CAFFEINE-METER:START -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noonyuu/noonyuu/output/caffeine-dark.svg">
+  <img alt="カフェインメーター" width="600" src="https://raw.githubusercontent.com/noonyuu/noonyuu/output/caffeine-light.svg">
+</picture>
 <!-- CAFFEINE-METER:END -->
 
 ## 🤝 Connect
