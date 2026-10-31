@@ -3,6 +3,9 @@ on:
   schedule:
     - cron: "23 */3 * * *" # 3時間ごと
   workflow_dispatch:
+  push: # このファイルをコミットしたときに初回が動く
+    branches: [main]
+    paths: [.github/workflows/caffeine-meter.yml]
 permissions:
   contents: write
 jobs:
