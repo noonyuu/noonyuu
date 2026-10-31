@@ -1,0 +1,13 @@
+name: Caffeine meter
+on:
+  schedule:
+    - cron: "23 */3 * * *" # 3時間ごと
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  brew:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v7
+      - uses: noonyuu/cdd-bio@v1
