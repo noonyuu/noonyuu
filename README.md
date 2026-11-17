@@ -2,8 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=noonyuu" />
 </div>
 
-<!-- 2. プロフィールや連絡先を変更 -->
-
 <!-- CAFFEINE-METER:START -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noonyuu/noonyuu/output/caffeine-dark.svg">
@@ -15,22 +13,6 @@
 
 [X - @noonyuu](https://X.com/noonyuu)
 
-<!-- 3. 好きな技術スタックに変更 -->
-<!-- ライトモート：theme=light, ダークモート：theme=dark -->
-<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
+[Portfolio](https://noonyuu.com)
 
-## 🌱 Learning Skills
-
-### My Favorite
-
-<img src="https://skillicons.dev/icons?i=react,go,tailwind,swift" /><br />
-
-#### Languages
-
-<img src="https://skillicons.dev/icons?i=html,js,ts,python,php,dart,kotlin,threejs" /><br />
-
-#### Other
-
-<img src="https://skillicons.dev/icons?i=css,next,flutter,firebase,mysql,mongodb,sqlite,docker,cloudflare,graphql,fastapi,express,flask" />
-
-<br>
+[すごい開発者](https://sugoikaihatusha.com)
